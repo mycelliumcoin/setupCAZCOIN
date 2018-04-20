@@ -1,0 +1,2 @@
+# setupCAZCOIN
+CAZCOIN setup script
