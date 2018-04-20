@@ -46,6 +46,7 @@ echo "**********************************************************************"
 echo ""
 echo "                      I'm done, now it's your turn          "
 echo ""
+echo "     At MYCE we are extremely proud of this partnership with CAZCOIN          "
 echo "**********************************************************************"
 echo ""
 
