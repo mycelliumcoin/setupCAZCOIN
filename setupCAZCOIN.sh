@@ -37,7 +37,7 @@ wget https://github.com/copicogithub1/cazcoin/releases/download/v.1.0.0/cazcoin-
 tar -xvzf cazcoin-1.0.0-x86_64-linux-gnu.tar.gz
 rm cazcoin-1.0.0-x86_64-linux-gnu.tar.gz
 mv cazcoin-1.0.0 cazcoin
-cd cazcoin/bin
+cd ~/cazcoin/bin
 ./cazcoind
 
 
